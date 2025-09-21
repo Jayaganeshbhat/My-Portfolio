@@ -141,7 +141,7 @@ const HomePage = () => {
                   <Box>
                     <ul>
                       <li>
-                        I’m Jayaganesh Bhat B, a Computer Science Engineering student specializing in Data Science, currently in my 6th semester.
+                        I’m Jayaganesh Bhat B, a Computer Science Engineering student specializing in Data Science, currently in my 7th semester.
                       </li>
                     </ul>
                   </Box>

@@ -38,7 +38,7 @@ const HomePage = () => {
   function handleResumeDownload() {
     const link = document.createElement("a");
     link.href = resumePDF;
-    link.download = "Jayaganesh_Bhat_Resume.pdf";
+    link.download = "Jayaganesh_Bhat_Resume_2.pdf";
     document.body.appendChild(link);
     link.click();
     document.body.removeChild(link);

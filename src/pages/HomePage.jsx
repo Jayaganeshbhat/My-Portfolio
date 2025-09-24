@@ -14,7 +14,7 @@ import {
   BsWhatsapp,
 } from "react-icons/bs";
 import { SiGmail } from "react-icons/si";
-import resumePDF from "../resume/Jayaganesh_Bhat_Resume.pdf";
+import resumePDF from "../resume/Jayaganesh_Bhat_Resume_2.pdf";
 import { FaDownload } from "react-icons/fa";
 import ExpCard from "../component/ExpCard";
 import Fade from "react-reveal/Fade";

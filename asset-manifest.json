@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/My-Portfolio/static/css/main.505ec795.css",
-    "main.js": "/My-Portfolio/static/js/main.ba79588c.js",
+    "main.js": "/My-Portfolio/static/js/main.fe29611c.js",
     "static/js/787.05863bdd.chunk.js": "/My-Portfolio/static/js/787.05863bdd.chunk.js",
-    "static/media/Jayaganesh_Bhat_Resume.pdf": "/My-Portfolio/static/media/Jayaganesh_Bhat_Resume.a6bf57e1e09486936238.pdf",
     "static/media/PSX_20250820_192350[1].jpg": "/My-Portfolio/static/media/PSX_20250820_192350[1].8865b4f98d9d75fcc398.jpg",
+    "static/media/Jayaganesh_Bhat_Resume_2.pdf": "/My-Portfolio/static/media/Jayaganesh_Bhat_Resume_2.a0b39fa0fd4dcd3c90e6.pdf",
     "static/media/slick.svg": "/My-Portfolio/static/media/slick.2630a3e3eab21c607e21.svg",
     "static/media/slick.eot": "/My-Portfolio/static/media/slick.a4e97f5a2a64f0ab1323.eot",
     "static/media/slick.ttf": "/My-Portfolio/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/My-Portfolio/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/My-Portfolio/index.html",
     "main.505ec795.css.map": "/My-Portfolio/static/css/main.505ec795.css.map",
-    "main.ba79588c.js.map": "/My-Portfolio/static/js/main.ba79588c.js.map",
+    "main.fe29611c.js.map": "/My-Portfolio/static/js/main.fe29611c.js.map",
     "787.05863bdd.chunk.js.map": "/My-Portfolio/static/js/787.05863bdd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.505ec795.css",
-    "static/js/main.ba79588c.js"
+    "static/js/main.fe29611c.js"
   ]
 }
